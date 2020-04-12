@@ -15,7 +15,7 @@ Audio = ['.wav', '.wave', '.aiff', '.pcm', '.au', '.flac', '.m4a', '.caf', '.wma
 photos = ['.tif', '.jpg', '.png', '.gif']
 compressed = ['.rar', '.zip']
 Documents = ['.pdf', '.doc', '.txt', '.docx', '.odt', '.html', '.xlsx', '.pptx']
-cDir = os.getcwd()  # gets the current folder
+cDir = os.getcwd()       # gets the current folder
 
 # ------------------------------------------------------------------------
 extension = ""
